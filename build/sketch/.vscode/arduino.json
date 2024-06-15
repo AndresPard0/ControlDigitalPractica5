@@ -1,0 +1,8 @@
+#line 1 "C:\\Users\\CarlosAP\\Documents\\Ciclo 8\\Control Digital\\ControlDigitalPractica5\\.vscode\\arduino.json"
+{
+    "sketch": "ControlDigitalPractica5.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "port": "COM4"
+}

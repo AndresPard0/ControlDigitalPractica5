@@ -1,0 +1,7 @@
+{
+    "sketch": "ControlDigitalPractica5.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "port": "COM4"
+}
